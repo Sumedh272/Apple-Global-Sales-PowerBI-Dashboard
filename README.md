@@ -11,15 +11,15 @@ The dashboard transitions through three analytical layers—Sales Overview, Prod
 
 ### 1. Sales Overview (Macro Health Layer)
 Provides an immediate bottom-line pulse check featuring customized, low-contrast UI containers and application-like bookmark button groups for smartphone, laptop, and accessory slicing.
-![Sales Overview](screenshots/page1_filename.png)
+![Sales Overview]
 
 ### 2. Products Overview (Granular Distribution Layer)
 Examines product performance through granular accounting matrices, cross-analyzes unit volumes against value, and provides spatial intelligence via geographical sales mapping.
-![Products Overview](screenshots/page2_filename.png)
+![Products Overview]
 
 ### 3. Revenue Details (Operational Diagnostic Layer)
 Tracks financial momentum using advanced metrics (YoY Growth % and Revenue LY), isolates retail outlet performance, and maps product quality risks using visual claim treemaps.
-![Revenue Details](screenshots/page3_filename.png)
+![Revenue Details]
 
 ---
 

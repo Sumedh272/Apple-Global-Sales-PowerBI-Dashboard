@@ -35,9 +35,5 @@ Tracks financial momentum using advanced metrics (YoY Growth % and Revenue LY), 
 * **DAX (Data Analysis Expressions):** Time-intelligence modeling (YoY Growth %, Revenue LY, Revenue QoQ, Avg Order Value, Claim Resolution Rate %).
 * **Excel / CSV:** Relational database storage for core schema tables (Sales, Products, Stores, Warranty, Category, Date).
 
----
 
-## How to View the Dashboard
-1. Download the `Apple_Global_Sales_Dashboard.pbix` file from this repository.
-2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Open the file to interact with the bookmarks, slicers, and navigation bars natively. (Remember to hold `Ctrl + Click` to trigger button actions in Desktop mode!)
+

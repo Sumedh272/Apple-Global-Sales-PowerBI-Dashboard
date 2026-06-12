@@ -33,7 +33,7 @@ Tracks financial momentum using advanced metrics (YoY Growth % and Revenue LY), 
 ## Tools & Tech Stack Used
 * **Power BI Desktop:** Data modeling, UI/UX container design, and canvas architecture.
 * **DAX (Data Analysis Expressions):** Time-intelligence modeling (YoY Growth %, Revenue LY, Revenue QoQ, Avg Order Value, Claim Resolution Rate %).
-* **Excel / CSV:** Relational database storage for core schema tables (Sales, Products, Stores, Warranty, Category, Date).
+* **CSV:** Relational database storage for core schema tables (Sales, Products, Stores, Warranty, Category, Date).
 
 
 
